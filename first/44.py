@@ -1,2 +1,1 @@
 print('guba')
-print('rzcgon')
