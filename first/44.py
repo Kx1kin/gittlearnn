@@ -1,1 +1,2 @@
 print('guba')
+print('d')
